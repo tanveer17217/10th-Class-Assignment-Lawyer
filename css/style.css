@@ -44,7 +44,7 @@
     left: 50%;
     top: 85%;
     transform: translate(-50%, 0px);
-    animation: downkey 0.4s linear infinite;
+    animation: downkey 0.6s linear infinite;
     animation-direction: alternate;
 }
 
@@ -122,7 +122,7 @@
     left: 50%;
     top: 85%;
     transform: translate(-50%, 0px);
-    animation: downkey 0.4s linear infinite;
+    animation: downkey 0.6s linear infinite;
     animation-direction: alternate;
 }
 
@@ -194,7 +194,7 @@
     width: 0;
     height: 7px;
     background: #f2622c;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 .wwd :hover .mheading
     span{
@@ -224,7 +224,7 @@
     background: -webkit-linear-gradient(top,  rgba(127,123,176,0.2) 0%,rgba(41,137,216,0.67) 59%,rgba(41,137,216,0.73) 67%,rgba(47,52,133,1) 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to bottom,  rgba(127,123,176,0.2) 0%,rgba(41,137,216,0.67) 59%,rgba(41,137,216,0.73) 67%,rgba(47,52,133,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#337f7bb0', endColorstr='#2f3485',GradientType=0 ); /* IE6-9 */
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 
@@ -241,7 +241,7 @@
     text-align: center;
     min-width: 40vh;
     opacity: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .image .hq
@@ -259,7 +259,7 @@
     color: #f7f8f7;
     font-size: 45px;
     opacity: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .image:hover .hq{
@@ -323,7 +323,7 @@
     bottom: 0;
     width: 100%;
     height: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .images2:hover::before{
@@ -344,7 +344,7 @@
     color: #ffffff;
     min-width: 30vh;
     opacity: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .namea
@@ -483,7 +483,7 @@
     width: 0;
     height: 7px;
     background: #f2622c;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 .wwd :hover .mheading span{
     width: 86px;
@@ -512,7 +512,7 @@
     background: linear-gradient(to bottom,  rgba(127,123,176,0.2) 0%,rgba(41,137,216,0.67) 59%,rgba(41,137,216,0.73) 67%,rgba(47,52,133,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#337f7bb0', endColorstr='#2f3485',GradientType=0 ); /* IE6-9 */
 
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 
@@ -529,7 +529,7 @@
     text-align: center;
     min-width: 40vh;
     opacity: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .image .hq h3{
@@ -545,7 +545,7 @@
     color: #f7f8f7;
     font-size: 45px;
     opacity: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .image:hover .hq{
@@ -605,7 +605,7 @@ margin-top: 10%;
     bottom: 0;
     width: 100%;
     height: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .images2:hover::before{
@@ -626,13 +626,12 @@ margin-top: 10%;
     color: #ffffff;
     min-width: 31vh;
     opacity: 0;
-    transition: 0.4s all ease-in-out;
+    transition: 0.6s all ease-in-out;
 }
 
 .namea h3{
     font-family: 'Montserrat', sans-serif;
     font-size: 20pt;
-    /* font-family: 'Montserrat', sans-serif; */
     font-weight: 600;
 }
 
